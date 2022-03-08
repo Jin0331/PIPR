@@ -1,0 +1,17 @@
+*.fa
+*.h5
+save_model/
+src/.ipynb_checkpoints/
+src/prose/
+src/saved_models/
+src/logs
+*.png
+*.hdf5
+.ipynb_checkpoints/
+data/
+documentation/
+__pycache__/
+scripts/
+Learning_log/
+save_model_prose/
+preprocess/
