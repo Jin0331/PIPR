@@ -4,10 +4,12 @@ save_model/
 src/.ipynb_checkpoints/
 src/prose/
 src/saved_models/
+save_model_pretrained/
 src/logs
 *.png
 *.hdf5
 .ipynb_checkpoints/
+logs/
 data/
 documentation/
 __pycache__/
